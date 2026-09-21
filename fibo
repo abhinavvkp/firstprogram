@@ -1,5 +1,5 @@
 n=int(input("enter the number 0f terms:"))
-a=0
+a= 0
 b=1
 print("fibonacci series:")
 for i in range(n):
